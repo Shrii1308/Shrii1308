@@ -1,0 +1,39 @@
+Project Scope:
+•	Design and build a working model of a retractable landing gear for a small unmanned aerial vehicle (UAV) or model aircraft.
+•	Focus on the mechanical design and operation of the landing gear, including the retraction mechanism, shock absorption, and structural integrity.
+•	Consider the weight and size constraints of the UAV or model aircraft.
+•	Document the entire design and build process, including CAD models, calculations, and assembly instructions.
+Design Considerations:
+•	Retraction Mechanism: 
+o	Choose a suitable mechanism for retracting the landing gear, such as a lever, gear linkage, or hydraulic actuator.
+o	Ensure smooth and reliable operation of the retraction mechanism.
+o	Consider the forces and torques involved in retracting the landing gear.
+•	Shock Absorption: 
+o	Design a shock absorption system to protect the UAV or aircraft during landing.
+o	Use springs, dampers, or a combination of both to absorb the impact forces.
+o	Consider the weight and size of the shock absorption system.
+•	Structural Integrity: 
+o	Design the landing gear to withstand the loads during takeoff and landing.
+o	Use materials that are strong and lightweight, such as aluminum or carbon fiber.
+o	Consider the fatigue life of the landing gear components.
+•	Weight and Size: 
+o	Minimize the weight and size of the landing gear to reduce the overall weight and drag of the UAV or aircraft.
+o	Optimize the design for minimal weight and size while maintaining structural integrity.
+Materials and Tools:
+•	Aluminum or carbon fiber for the main structure
+•	Steel or other suitable materials for the retraction mechanism and shock absorption components
+•	Bearings and other mechanical components
+•	CAD software for design and modeling
+•	3D printer or CNC machine for prototyping and manufacturing
+•	Basic workshop tools for assembly and testing
+Testing and Evaluation:
+•	Test the landing gear for functionality and performance.
+•	Verify the retraction and extension mechanisms, shock absorption, and structural integrity.
+•	Perform ground tests to simulate takeoff and landing loads.
+•	Consider flight testing the UAV or aircraft with the retractable landing gear to evaluate its performance in real-world conditions.
+Additional Considerations:
+•	Safety: Ensure the landing gear is safe to operate and does not pose any hazards.
+•	Reliability: Design the landing gear for reliable operation in various conditions.
+•	Maintainability: Make the landing gear easy to maintain and repair.
+•	Cost: Consider the cost of materials and manufacturing when designing the landing gear.
+
